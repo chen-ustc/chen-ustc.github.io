@@ -7,27 +7,27 @@ url: "https://chen-ustc.github.io"
 
 
 # GitHub User settings
-username: chen-ustc
-github_username: chenwei
-user_description: user_description
-user_title: user_title
-email: 
+username: chenwei
+github_username: chen-ustc
+user_description: ''
+user_title: ''
+email: munchkin213@163.com
 
 # Blog Author settings
-author: chenwei
-  name:            
+author:
+  name: chenwei           
   picture:        
-  email:           
+  email: munchkin213@163.com           
   description:     
   twitter:
   facebook:
-  github:          
-  linkedin:
-  clustrmap:      
+  github: https://github.com/chen-ustc               
 
 
 # markdown
 markdown: kramdown
+
+future: true
   
 kramdown:
  footnote_nr: 1
@@ -49,7 +49,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
-permalink: none
+permalink: /:year/:title/
 
 defaults:
   -
