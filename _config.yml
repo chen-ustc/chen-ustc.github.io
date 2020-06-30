@@ -1,20 +1,20 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: chenwei's Blog
+description: struggle forward
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://yk-liu.github.io"  
+url: "https://chen-ustc.github.io"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
+username: chen-ustc
+github_username: chenwei
 user_description: user_description
 user_title: user_title
 email: 
 
 # Blog Author settings
-author:
+author: chenwei
   name:            
   picture:        
   email:           
