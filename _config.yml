@@ -1,33 +1,33 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: chenwei's Blog
+description: struggle forward
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://yk-liu.github.io"  
+url: "https://chen-ustc.github.io"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
-user_description: user_description
-user_title: user_title
-email: 
+username: chenwei
+github_username: chen-ustc
+user_description: ''
+user_title: ''
+email: munchkin213@163.com
 
 # Blog Author settings
 author:
-  name:            
+  name: chenwei           
   picture:        
-  email:           
+  email: munchkin213@163.com           
   description:     
   twitter:
   facebook:
-  github:          
-  linkedin:
-  clustrmap:      
+  github: https://github.com/chen-ustc               
 
 
 # markdown
 markdown: kramdown
+
+future: true
   
 kramdown:
  footnote_nr: 1
@@ -49,7 +49,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
-permalink: none
+permalink: /:year/:title/
 
 defaults:
   -
