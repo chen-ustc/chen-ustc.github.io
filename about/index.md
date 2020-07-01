@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2018-11-14
+Edit: 2020-7-1
 toc: false
 commentable: false
 protected: true
@@ -10,9 +10,18 @@ mathjax: true
 
 # Me
 
-
+I’m a student with broad interests. I wrote this paragraph in English since I think it’s not proper to destroy the origin style built by Mr liu. I didn’t take advantage of English actually. However, maybe this gonna be a chance to improve my skills. I will push posts in English sometimes as practices. Let’s struggle forward together.
 
 # This Site
+
+This site is served on $github.io$. I am using github desktop to post my blogs. It might be the easiest way to build a personal website. So learning to build a cloud server with aliyunESC and framework with hexo(tried it before but failed for some reason still unknown), jekyll, wordpress, etc.
+
+This site is mainly used to post blogs about:
+
+1. installation of software
+2. notes
+3. solutions of specific problems
+4. diaries 
 
 
 # Posts
@@ -48,20 +57,6 @@ This website uses these sources:
 
 Additional licensing information can be found YOUR WEBSITE LINK.
 
-# The Name
-
-I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
-
-> **佛告阿难。汝等尚以缘心听法。此法亦缘。非得法性。**
->
-> **若复观指以为月体。此人岂唯亡失月轮。亦亡其指。何以故。以所标指为明月故。**
->
-> **岂唯亡指。亦复不识明之与暗。何以故。即以指体。为月明性。明暗二性。无所了故。**
-
-Which has been beautifully put by Bruce Lee:
-
->It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.
-
 # Contact
 
-The best way to reach me is via email: $namer$ @ $web.com$
+The best way to reach me is via email: $munchkin213$ @ $163.com$ or $charliechan607$@$gmail.com$
