@@ -10,7 +10,7 @@ mathjax: true
 
 # Me
 
-I’m a student with broad interests. I wrote this paragraph in English since I think it’s not proper to destroy the origin style built by Mr liu. I didn’t take advantage of English actually. However, maybe this gonna be a chance to improve my skills. I will push posts in English sometimes as practices. Let’s struggle forward together.
+I’m a student with broad interests. I wrote this paragraph in English since I think it’s not proper to destroy the origin style built by Mr liu. I am not on top of English actually. However, maybe this gonna be a chance to improve my skills. I will push posts in English sometimes as practices. Let’s struggle forward together.
 
 # This Site
 
