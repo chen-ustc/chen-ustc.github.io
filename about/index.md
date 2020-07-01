@@ -14,7 +14,7 @@ I’m a student with broad interests. I wrote this paragraph in English since I 
 
 # This Site
 
-This site is served on $github.io$. I am using github desktop to post my blogs. It might be the easiest way to build a personal website. So learning to build a cloud server with aliyunESC and framework with hexo(tried it before but failed for some reason still unknown), jekyll, wordpress, etc.
+This site is served on $github.io$. I am using github desktop to post my blogs. It might be the easiest way to build a personal website. So learning to build a cloud server with aliyunESC and framework with hexo(tried it before but failed for some reason still unknown), jekyll, wordpress, all of these are on the schedule.
 
 This site is mainly used to post blogs about:
 
